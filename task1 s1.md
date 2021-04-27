@@ -47,3 +47,7 @@ only then the release will be completed
 Next is to add multi-stages to the pipeline, for that repeate step 3,4 and 5.
 And after you build and releace everything delete all the resource groups and instances.
 
+![Screenshot (5)](https://user-images.githubusercontent.com/78786418/116300956-210ba180-a7bd-11eb-86a4-8137b04887a0.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/78786418/116301037-35e83500-a7bd-11eb-8bfa-d134c99e0231.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/78786418/116301046-397bbc00-a7bd-11eb-81ca-fc20eea52538.png)
+

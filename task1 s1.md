@@ -1,7 +1,6 @@
 # TASk 1-Scenario 1a
 
-## Setup azure DevOps ci cd pipeline for app service application & deploy to dev,
-QA and production server. Add approver for every stage
+## Setup azure DevOps ci cd pipeline for app service application & deploy to dev, QA and production server. Add approver for every stage
 
 Azure Pipelines provide a highly configurable and manageable pipeline for releases to multiple stages such as development, staging, QA, and production. it also offers the 
 opportunity to implement gates and approvals at each specific stage.

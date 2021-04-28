@@ -8,9 +8,12 @@
 
 
 ## Examples for jenkins ci/cd pipelines using
-# - anisible
+### - anisible
 
-# - github
+###![Screenshot (8)](https://user-images.githubusercontent.com/78786418/116368492-03beed80-a826-11eb-81a4-142fe66b093c.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/78786418/116368504-07527480-a826-11eb-833b-4d9c6bfe0e5d.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/78786418/116368564-1507fa00-a826-11eb-820a-e05f6d19d2ce.png)
+ - github
 Integrate Jenkins with GitHub 
 Step 1:
 In the jenkins server select Manage jenkins and in that plugin manager and under the available 
